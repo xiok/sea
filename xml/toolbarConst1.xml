@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+
+		<item type="button" id="btn_print" text="Imprimir" img="print.png" imgdis="printd.png"/>
+
+	</toolbar>

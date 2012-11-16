@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+        <item type="button" id="btn_add" text="" img="add.png" imgdis="addd.png" title="Adicione una nueva parte a una determinada Boleta." />
+		<item type="button" id="btn_new" text="Nuevo" img="new.png" imgdis="newd.png"/>
+        <item type="button" id="btn_saveas" text="Guardar como" img="saveas.png" imgdis="saveasd.png"/>
+		<item type="button" id="btn_edit" text="Editar" img="edit.png" imgdis="editd.png"/>
+		<item type="button" id="btn_erase" text="Eliminar" img="trash.png" imgdis="trashd.png"/>
+		<item type="separator" id="sep_1"/>
+		<item type="button" id="btn_print" text="Imprimir" img="print.png" imgdis="printd.png"/>
+		<item type="separator" id="sep_2"/>
+		<item type="button" id="btn_clear" text="Limpiar" img="clear.png" imgdis="cleard.png"/>
+	</toolbar>

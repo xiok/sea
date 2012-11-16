@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rows>
+	<head>
+		<column width="80" type="ro" align="left" sort="na">Propiedades</column>
+		<column width="*" type="coro" align="left" sort="na">Valores
+			<option value="left">Izquierda</option>
+			<option value="top">Superior</option>
+			<option value="right">Derecha</option>
+		</column>
+		<settings>
+			<colwidth>px</colwidth>
+		</settings>
+	</head>
+	<row id="1">
+		<cell>Texto</cell>
+		<cell type="ed"></cell>
+	</row>
+	<row id="2">
+		<cell>Alinear Texto</cell>
+		<cell type="ed"></cell>
+	</row>
+	<row id="3">
+		<cell>Pos. Texto</cell>
+		<cell>left</cell>
+	</row>
+	<row id="4">
+		<cell>Ancho Texto</cell>
+		<cell type="ed"></cell>
+	</row>
+</rows>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rows>
+    <row id="1">
+        <cell>Pregunta</cell>
+        <cell xmlcontent="1" editable="0" type="co" validate="NotEmpty">
+        </cell>
+    </row>
+	<row id="2">
+		<cell>Texto</cell>
+		<cell type="ed" validate="NotEmpty"></cell>
+	</row>
+	<row id="3">
+		<cell>Negrilla</cell>
+		<cell type="list" validate="NotEmpty" values="Si,No"></cell>
+	</row>
+	<row id="4">
+		<cell>Ancho</cell>
+		<cell type="ed" validate="NotEmpty,ValidInteger">300</cell>
+	</row>
+</rows>

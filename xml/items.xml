@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+        <item type="text" id="info"  text="" />
+		<item type="button" id="btn_end" text=" Diseño" img="icon_19.png" imgdis="icon_19d.png" />
+		<item type="button" id="btn_cut" text="Cortar" img="icon_20.png" imgdis="icon_20d.png" />
+		<item type="separator" id="sep_1" />
+		<item type="button" id="btn_label" text="" title="Texto" img="icon_74.png" imgdis="icon_74d.png" />
+		<item type="button" id="btn_input" text="" title="Campo de Texto" img="icon_75.png" imgdis="icon_75.png" />
+        <item type="button" id="btn_combo" text="" title="Selección" img="icon_76.png" imgdis="icon_76.png" />
+		<!--
+		<item type="button" id="btn_numero" text="Campo Numerico" img="icon_79.png" imgdis="printd.png" />
+		-->
+		<item type="button" id="btn_radio" text="" title="Campo de Opciones" img="icon_78.png" imgdis="icon_78.png" />
+        <item type="button" id="btn_check" text="" title="Campo de Selección" img="icon_77.png" imgdis="icon_77d.png" />
+        <item type="button" id="btn_list" text="" title="Campo de Listado" img="icon_72.png" imgdis="icon_72d.png" />
+		<item type="button" id="btn_archivo" text="" title="Subir Archivo" img="icon_50.png" imgdis="icon_50.png" />
+        <item type="button" id="btn_calendario" text="" title="Calendario" img="icon_73.png" imgdis="icon_73d.png" />
+		<item type="button" id="btn_grid" text="" title="Data Grid" img="icon_61.png" imgdis="icon_61d.png" />
+	</toolbar>

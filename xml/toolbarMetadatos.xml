@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+		<item type="button" id="btn_edit" text="Editar" img="edit.png" imgdis="editd.png"/>
+		<item type="separator" id="sep_1"/>
+		<item type="button" id="btn_print" text="Imprimir" img="print.png" imgdis="printd.png"/>
+		<item type="separator" id="sep_2"/>
+		<item type="button" id="btn_clear" text="Limpiar" img="clear.png" imgdis="cleard.png"/>
+	</toolbar>

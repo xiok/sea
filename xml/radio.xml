@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rows>
+	<head>
+		<column width="100" type="ro" align="left" sort="na">Propiedades</column>
+		<column width="*" type="coro" align="left" sort="na">Valores
+			<option value="left">Izquierda</option>
+			<option value="center">Centro</option>
+			<option value="right">Derecha</option>
+		</column>
+		<settings>
+			<colwidth>px</colwidth>
+		</settings>
+	</head>
+	<row id="1">
+		<cell>Texto</cell>
+		<cell type="ed" validate="NotEmpty"></cell>
+	</row>
+	<row id="2">
+		<cell>Alinear Texto</cell>
+		<cell>right</cell>
+	</row>
+	<row id="3">
+		<cell>Ancho Texto</cell>
+		<cell type="ed" validate="ValidInteger"></cell>
+	</row>
+	<row id="4">
+		<cell>Nombre</cell>
+		<cell type="ed" validate="NotEmpty"></cell>
+	</row>	
+	<row id="5">
+		<cell>Valor</cell>
+		<cell type="ed"></cell>
+	</row>
+</rows>

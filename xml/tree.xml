@@ -1,0 +1,30 @@
+<tree id="0">
+	<item text="Menu" id="men" call="1" select="1">
+		<item text="Inicio" id="ini" checked="1">
+			<item text="Principal" id="pri"/>
+			<item text="Salir" id="sal"/>			
+		</item>
+		<item text="Administracion" id="adm" open="1">		
+			<item text="Gestión" id="ges"/>
+			<item text="Departamentos" id="dep"/>
+			<item text="Municipios" id="mun"/>
+			<item text="Roles" id="rol"/>
+			<item text="Usuarios" id="usu"/>
+			<item text="Rango de Fechas" id="ran"/>
+		</item>
+		<item text="Diseñador" id="dis" open="1">
+			<item text="Diseñar Boleta" id="bol"/>
+		</item>
+		<item text="Transcripción" id="tra" open="1">
+			<item text="Datos del Municipio" id="dat"/>
+			<item text="Transcribir Boleta" id="tra"/>
+		</item>
+		<item text="Reportes" id="checkM1" open="1">
+			<item text="Reporte de Avance" id="re1"/>
+		</item>
+		<item text="Ayuda" id="ayu" checked="1">
+			<item text="Manual del Sistema" id="man"/>
+			<item text="Acerca de..." id="ace"/>
+		</item>
+	</item>
+</tree>

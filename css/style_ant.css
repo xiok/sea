@@ -1,0 +1,115 @@
+@charset "utf-8";
+html, body {
+	width: 100%;
+	height: 100%;
+	margin: 0px;
+	padding: 0px;
+	overflow: hidden;
+}
+@font-face {font-family: 'Cuprum'; src: local("Cuprum"), url("../font/Cuprum.ttf") format("truetype")}
+.fontHeader{
+	font-family: 'Cuprum', 'Lucida Grande', 'Segoe UI', Tahoma, sans-serif;
+	font-size:24px;
+	color:#FFF;
+	padding:8px 0 0 10px;
+}
+#header{
+	background:url("../images/header.png") repeat-x;
+	height:54px;
+	width:99%;
+	margin:7px 7px 0px 7px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+#logoMain{
+    background:#eaeaea url("../images/logo.png") no-repeat 50% 50%;
+	width:100%;
+	height:100%;
+}
+#details{
+	margin: 5px;
+	padding: 10px;
+	font-size: 11px;
+	border: 1px dotted #999;
+	color: #555;
+	background: #F1F1F1;
+	text-align: justify;
+	font-size: 11px;
+	font-family: tahoma,arial,verdana,sans-serif;
+}
+/*START STYLE ICONS*/
+#cpanel{
+	background-color: #f1f1f1;
+	width: 181px;
+	height: 181px;
+	padding-left: 9px;
+}
+#cpanel div.icon {
+	text-align: center;
+	float: left;
+	margin-top: 10px;
+}
+#cpanel div.icon a{
+	padding: 0;
+	margin: 0;
+	background-color: #eaeaea;
+	background-position: -30px;
+	display: block;
+	float: left;
+	height: 73px;
+	width: 75px;
+	color: #565656;
+	vertical-align: middle;
+	text-decoration: none;
+	border: 1px solid #CCC;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-webkit-transition-property: background-position, -webkit-border-bottom-left-radius, -webkit-box-shadow;
+	-moz-transition-property: background-position, -moz-border-radius-bottomleft, -moz-box-shadow;
+	-webkit-transition-duration: 0.8s;
+	-moz-transition-duration: 0.8s;
+}
+#cpanel div.icon a:hover{
+	box-shadow: 5px 5px 15px #666;
+	border-top-left-radius: 25px;
+}
+#cpanel div.icon a:visited {
+	color: #025A8D;
+	text-decoration: none;
+	outline: none;
+}
+#cpanel div.icon a:link {
+	color: #025A8D;
+	text-decoration: none;
+	outline: none;
+}
+#cpanel img {
+	padding: 8px 0 0 0;
+	margin: 0 auto;
+	border: 0 none;
+}
+#cpanel span {
+	display: block;
+	text-align: center;
+	font-family: tahoma,arial,verdana,sans-serif;
+	font-size:11px;
+}
+.fontNormal{
+	font-weight: normal;
+}
+.fontBold{
+	font-weight: bold;
+}
+/*END STYLE ICONS*/
+/*START STYLE DHTMLX*/
+div.dhx_modal_cover_dv{
+	background:transparent;
+}
+.dhtmlx_skin_dhx_skyblue div.dhtmlx_wins_body_inner .dhxform_obj_dhx_skyblue {
+	background:#f1f1f1;
+}
+.dhxform_obj_dhx_skyblue div.dhxform_txt_label2 {
+	color: black;
+}
+/*END STYLE DHTMLX*/

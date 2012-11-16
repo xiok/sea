@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+		<item type="button" id="btn_Enviar" text="Enviar" img="email_go.png"/>
+		<item type="button" id="btn_Guardar" text="Guardar" img="disk.png"/>
+		<item type="button" id="btn_Limpiar" text="Limpiar" img="edit.png"/>
+	</toolbar>

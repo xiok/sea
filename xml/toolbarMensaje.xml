@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+		<item type="button" id="btn_nuevo" text="Nuevo" img="email_add.png"/>
+		<item type="button" id="btn_reenviar" text="Reenviar" img="email_edit.png"/>
+		<item type="button" id="btn_entrada" text="Entrada" img="email_open.png" />
+		<item type="button" id="btn_salida" text="Salida" img="email_go.png" />		
+		<item type="button" id="btn_borrador" text="Borrador" img="email_delete.png"  />		
+	</toolbar>

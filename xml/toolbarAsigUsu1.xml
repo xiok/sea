@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<toolbar>
+		<item type="button" id="btn_Guardar" text="Guardar" img="disk.png"/>
+        <item type="button" id="btn_Quitar" text="Remover" img="edit.png"/>
+	</toolbar>

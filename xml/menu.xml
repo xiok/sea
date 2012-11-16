@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<menu>
+		<item type="item" id="men_inicio" text="Inicio" >
+			<item type="item" id="men_principal" text="Principal" img="icon_04.png" />
+			<item type="separator" id="sep_0" />
+			<item type="item" id="men_salir" text="Salir" img="icon_05.png" />
+		</item>
+		<item type="separator" id="sep_1" />
+		<item type="item" id="men_admin" text="Administración" >
+			<item type="item" id="men_gestion" text="Gestión" img="icon_06.png" />
+			<item type="item" id="men_dpto" text="Departamentos" img="icon_21.png" />
+			<item type="item" id="men_muni" text="Municipios" img="icon_18.png" />
+			<item type="separator" id="sep_2" />
+			<item type="item" id="men_roles" text="Roles" img="icon_08.png" />
+			<item type="item" id="men_usuarios" text="Usuarios" img="icon_03.png" />
+			<item type="separator" id="sep_3" />
+			<item type="item" id="men_rangof" text="Rango de Fechas " img="icon_01.png" />
+			<item type="item" id="men_metadatos" text="Metadatos" img="book_addresses.png" />
+            <item type="item" id="men_asigbol" text="Asignacion de Boletas" img="page_paste.png" />
+		</item>
+		<item type="separator" id="sep_4" />
+		<item type="item" id="men_disegner" text="Diseñador" >
+			<item type="item" id="men_boleta" text="Diseñar Boleta" img="icon_02.png" />
+		</item>
+		<item type="separator" id="sep_5" />
+		<item type="item" id="men_trans" text="Transcritor" >
+			<item type="item" id="men_municipio" text="Datos del Municipio" img="icon_09.png" />
+			<item type="item" id="men_transcribir" text="Transcribir Boleta" img="icon_07.png" />
+		</item>
+		<item type="separator" id="sep_6" />
+		<item type="item" id="men_reports" text="Reportes" >
+			<item type="item" id="men_reporte1" text="Reporte de Accesos" img="icon_28.png" />
+			<item type="item" id="men_reporte2" text="Generador de Reportes" img="icon_25.png" />
+			<item type="item" id="men_reporte3" text="Reporte de Consistencia" img="icon_12.png" />
+		</item>
+		<item type="separator" id="sep_7" />
+		<item type="item" id="men_mensaje" text="Mensajes" >
+		</item>
+		<item type="separator" id="menuitem_separator_9" />
+		<item type="item" id="men_help" text="Ayuda" >
+			<item type="item" id="men_manual" text="Manual del Sistema" img="icon_11.png" />
+			<item type="separator" id="sep_8" />
+			<item type="item" id="men_acerca" text="acerca de..." img="icon_10.png" />
+		</item>
+	</menu>

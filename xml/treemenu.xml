@@ -1,0 +1,36 @@
+<tree id="0">
+	<item text="Menu" id="men" call="1" select="1">
+		<item text="Inicio" id="men_inicio" checked="1">
+			<item text="Principal" id="men_principal"/>
+			<item text="Salir" id="men_salir"/>			
+		</item>
+		<item text="Administracion" id="men_admin" open="1">		
+			<item text="Gestión" id="men_gestion"/>
+			<item text="Departamentos" id="men_dpto"/>
+			<item text="Municipios" id="men_muni"/>
+			<item text="Roles" id="men_roles"/>
+			<item text="Usuarios" id="men_usuarios"/>
+			<item text="Rango de Fechas" id="men_rangof"/>
+			<item text="Metadatos" id="men_metadatos"/>
+            <item text="Asignacion de Boletas" id="men_asigbol"/>
+		</item>
+		<item text="Diseñador" id="men_disegner" open="1">
+			<item text="Diseñar Boleta" id="men_boleta"/>
+		</item>
+		<item text="Transcripción" id="men_trans" open="1">
+			<item text="Datos del Municipio" id="men_municipio"/>
+			<item text="Transcribir Boleta" id="men_transcribir"/>
+		</item>
+		<item text="Reportes" id="men_reports" open="1">
+			<item text="Reporte de Avance" id="men_reporte1"/>
+			<item text="Generador de Reportes" id="men_reporte2"/>
+			<item text="Reporte de Consistencia" id="men_reporte3"/>
+		</item>
+		<item text="Mensajes" id="men_mensaje" open="1">
+		</item>
+		<item text="Ayuda" id="men_help" checked="1">
+			<item text="Manual del Sistema" id="men_manual"/>
+			<item text="Acerca de..." id="men_acerca"/>
+		</item>
+	</item>
+</tree>
