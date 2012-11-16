@@ -12,6 +12,9 @@ var disenadorClass = {
     tree:null,
     grid:null,
     form:null,
+
+
+
     //OBJECTOS ANIDADOS
     toolbarItems:null,
     toolbarTree:null,
